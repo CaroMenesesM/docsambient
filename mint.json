@@ -25,12 +25,7 @@
     "name": "Map",
     "url": "https://map.ambient.network/"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  
   "anchors": [
     {
       "name": "Documentation",
@@ -57,6 +52,10 @@
         "development"
       ]
     },
+
+//copying something else here
+
+    
     {
       "group": "Essentials",
       "pages": [
